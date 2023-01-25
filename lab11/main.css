@@ -1,0 +1,24 @@
+body{background:url("background.jpg");
+	color:#090909;
+font-size:1.5em;}
+h1{font: 1.5em/0.8 'Bitter', Helvetica, serif;
+	color:Gold ;
+	text-align:center;
+	padding:1%;
+	}
+header{background:#084698  ;
+		width:50%;
+		margin:0% auto;
+		border-radius:.2em;
+		padding:1%;
+		}	
+section,footer{border:.1em solid #084698;
+				overflow-x:auto;
+				width:45%;
+				margin:0 auto;
+				border-radius:.2em;
+				padding:2%;
+				background:white;
+				}				
+input{font-size:1em;
+	margin:.5%;}
